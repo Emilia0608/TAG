@@ -1,4 +1,4 @@
-# TAG
+# TAG(Table-Aware Group Relative Policy Optimization)
 - **Data**: training data for TAG
 - **Framework**: we used vlm-r1
 -  we add table recognition reward on [grpo_tag.py](https://github.com/Emilia0608/TAG/blob/main/VLM-R1/src/open-r1-multimodal/src/open_r1/grpo_tag.py)
